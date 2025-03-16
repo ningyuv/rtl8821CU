@@ -1,4 +1,4 @@
-# Realtek RTL8811CU/RTL8821CU USB wifi adapter driver version ~~5.4.1 for Linux 4.4.x up to 5.x~~6.8.0
+# Realtek RTL8811CU/RTL8821CU USB wifi adapter driver version 5.4.1 for Linux ~~4.4.x up to 5.x~~6.8.0 up to 6.11.x
 
 Before build this driver make sure `make`, `gcc`, `linux-header`/`kernel-devel`, `bc` and `git` have been installed.
 
